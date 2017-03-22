@@ -2,8 +2,15 @@
 Prototyping svg image with dynamic width &amp; height
 
 ## Installation
-With the Kirby CLI: `kirby plugin:install mcbrwr/kirby-protoimg`
-Manually: Place the protoimg folder in `site/plugins`
+With the Kirby CLI: 
+````
+kirby plugin:install mcbrwr/kirby-protoimg
+````
+
+Manually:
+````
+Place the protoimg folder in `site/plugins`
+````
 
 ## Usage
 The plugin creates a route that can be used as img src:
