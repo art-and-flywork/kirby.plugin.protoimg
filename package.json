@@ -1,0 +1,8 @@
+{
+  "name": "protoimg",
+  "description": "Prototyping svg image with dynamic width & height.",
+  "author": "Matthijs C. Brouwer <matthijs@artandflywork.com>",
+  "license": "MIT",
+  "version": "1.0",
+  "type": "kirby-plugin"
+}
